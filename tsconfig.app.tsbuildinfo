@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/patientdata.ts","./src/usepatientdata.ts","./src/components/patientdashboard.tsx","./src/components/patientlist.tsx","./src/components/trajectorychart.tsx"],"version":"5.9.3"}
